@@ -9,6 +9,9 @@ const progressBarFull = document.getElementById('progressBarFull');
 const loader = document.getElementById('loader');
 const game = document.getElementById('game');
 //************************* */
+
+
+
 //define variable
 let currentQuestion = {};
 let acceptingAnswers = false; //create a delay
