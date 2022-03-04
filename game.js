@@ -12,7 +12,7 @@ const game = document.getElementById('game');
 
 
 
-//define variable
+//define variable and making changes 
 let currentQuestion = {};
 let acceptingAnswers = false; //create a delay
 let score = 0;
